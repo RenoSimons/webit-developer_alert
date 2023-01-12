@@ -1,6 +1,6 @@
 <?php
 
-namespace webit\developer_alert\Providers;
+namespace reno\developer_alert\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

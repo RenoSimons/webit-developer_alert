@@ -1,12 +1,12 @@
 <?php
 
-namespace webit\developer_alert\Services;
+namespace reno\developer_alert\Services;
 
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
-use webit\developer_alert\App\Mail\DeveloperAlertMail;
-use webit\developer_alert\Models\Alert;
+use reno\developer_alert\App\Mail\DeveloperAlertMail;
+use reno\developer_alert\Models\Alert;
 
 class DeveloperAlertService 
 {

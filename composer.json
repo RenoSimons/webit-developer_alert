@@ -1,5 +1,5 @@
 {
-    "name": "webit/developer_alert",
+    "name": "reno/developer_alert",
     "description": "Monitor your application passively utilizing mail as an alert system with custom configuration",
     "type": "project",
     "license": "MIT",
@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "webit\\developer_alert\\DeveloperAlertServiceProvider"
+                "reno\\developer_alert\\DeveloperAlertServiceProvider"
             ]
         }
     },
@@ -31,7 +31,7 @@
     "repositories": [
         {
           "type": "path",
-          "url": "../../packages/blogpackage"
+          "url": "../../packages/reno"
         }
     ]
 }

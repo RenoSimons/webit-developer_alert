@@ -1,10 +1,10 @@
 <?php
 
-namespace webit\developer_alert\app\Http\Controllers;
+namespace reno\developer_alert\app\Http\Controllers;
 
 use Carbon\Carbon;
 use Illuminate\Http\Request;
-use webit\developer_alert\Models\Alert;
+use reno\developer_alert\Models\Alert;
 
 class AlertController extends Controller
 {

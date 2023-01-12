@@ -1,6 +1,6 @@
 <?php
 
-namespace webit\developer_alert\app\Http\Controllers;
+namespace reno\developer_alert\app\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

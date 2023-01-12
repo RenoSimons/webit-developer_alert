@@ -1,6 +1,6 @@
 <?php
 
-namespace webit\developer_alert\Models;
+namespace reno\developer_alert\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

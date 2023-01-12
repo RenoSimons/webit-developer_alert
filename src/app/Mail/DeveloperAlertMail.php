@@ -1,5 +1,5 @@
 <?php 
-namespace webit\developer_alert\App\Mail;
+namespace reno\developer_alert\App\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
